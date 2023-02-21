@@ -1,8 +1,5 @@
 # spring-boot-kafka-practice
 
-{%hackmd Hy_uVFcRD %}
-# spring-boot-kafka-practice
-
 ## 專案位置
 https://github.com/mister33221/spring-boot-kafka-practice.git
 
